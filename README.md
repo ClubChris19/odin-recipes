@@ -1,3 +1,3 @@
 # odin-recipes
 
-Project Recipes
+The Odin Recipes project is a simple HTML-based website designed to showcase a collection of recipes. The project is structured to guide you through the process of building a basic website with multiple linked pages, each dedicated to a different recipe. The steps include creating the initial structure, adding recipe pages, and populating these pages with relevant content, such as images, descriptions, ingredients, and steps.
